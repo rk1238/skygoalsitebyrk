@@ -1,0 +1,38 @@
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+  .whatwedoimg{width: 80%;}
+    .mp{  width: 90%;}
+     .fa-database{  font-size:1.5rem;}
+    .whyskygoalsection{font-size:20px;}
+    
+  }
+@media (max-width: 768px) {
+.head-title
+    {
+        font-size: 28px;
+    }
+   .p
+    {
+        font-size: 0.9rem;
+    }
+    .whatwedoimg{width: 80%;}
+    .whyskygoalsection{font-size:19px;}
+    .fa-database{  font-size:1.5rem;}
+    .whatwedotext{font-size:13;}
+    .whyskygoalsection{font-size:17px;}
+   
+}
+@media (max-width: 576px) {
+   .mp{  width: 100%;}
+   .twoimgslide {  width: 100%;}
+   .imo {   width: 100%; position: left; }
+   .head-title{ font-size: 20px;}
+   .p{   font-size: 0.9rem;}
+    .whatwedoimg{width: 70%;}
+    .whyskygoalsection{font-size:18px;}
+    .fa-database{  font-size:1rem;}
+    .whatwedotext{font-size:13;}
+
+    
+}
