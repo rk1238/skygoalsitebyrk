@@ -6,6 +6,7 @@
     .mp{  width: 90%;}
      .fa-database{  font-size:1.5rem;}
     .whyskygoalsection{font-size:20px;}
+     .jumbotron{ padding: 20px 20px;   margin: 30px 20px;}
     
   }
 @media (max-width: 768px) {
@@ -22,6 +23,8 @@
     .fa-database{  font-size:1.5rem;}
     .whatwedotext{font-size:13;}
     .whyskygoalsection{font-size:17px;}
+     .jumbotron{ padding: 20px 20px;   margin: 30px 10px;}
+    
    
 }
 @media (max-width: 576px) {
@@ -34,6 +37,6 @@
     .whyskygoalsection{font-size:18px;}
     .fa-database{  font-size:1rem;}
     .whatwedotext{font-size:13;}
-
+    .jumbotron{ padding: 20px 20px;   margin: 30px 10px;}
     
 }
